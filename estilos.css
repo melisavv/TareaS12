@@ -1,0 +1,37 @@
+body {
+    background-color: ghostwhite;
+    margin: 0;
+    font-family: sans-serif;
+}
+div{
+    width: 400px;
+    height: 800px;
+    margin: auto;
+    color: rgba(119, 117, 119, 0.8);
+}
+form {
+    background-color: azure;
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+fieldset{
+    border-color: white;   
+}
+h1{
+    text-align: center;
+    margin-top: 0s;
+    border-color: ghostwhite;
+}
+.fuente, #boton{
+    margin: auto;
+    display:block;
+    width: 180px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
